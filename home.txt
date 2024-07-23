@@ -8,6 +8,5 @@ Get ready for your USCIS naturalization test on the go! 🦅🇺🇸 Ace Citizen
 🧠 Memorization is a breeze using an advanced spaced repetition system
 ⚡ Instant feedback on your performance
 
-[Support](https://www.notion.so/Support-62abe7cbefd94f0f968f2c2068197d89?pvs=21)
-
-[Privacy Policy](https://www.notion.so/Privacy-Policy-79537b79a1474956a7832ac810bd5930?pvs=21)
+[Support](https://blakecrosley.github.io/support.txt)
+[Privacy Policy](https://blakecrosley.github.io/privacy_policy.txt)
